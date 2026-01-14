@@ -1,0 +1,25 @@
+# HR Contact Discovery CLI Tool - Requirements
+# Python 3.10+
+
+# Core Dependencies
+requests>=2.31.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
+
+# Search Functionality
+googlesearch-python>=1.2.3
+
+# Email Validation
+dnspython>=2.4.0
+
+# Additional useful packages
+urllib3>=2.0.0
+certifi>=2023.7.22
+
+# Development Dependencies (optional)
+# Uncomment if you want to contribute or run tests
+# pytest>=7.4.0
+# pytest-cov>=4.1.0
+# black>=23.7.0
+# flake8>=6.1.0
+# mypy>=1.5.0
